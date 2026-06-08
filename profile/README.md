@@ -18,7 +18,7 @@ Sage X3 is an enterprise resource planning platform designed for organizations t
 
 Teams researching sage x3 review topics usually want to understand whether Sage X3 fits complex workflows without forcing every department into rigid processes. Sage X3 modules can support financial management, supply chain planning, manufacturing execution, project tracking, customer order management, and business intelligence. For leadership teams, Sage X3 implementation planning is also important because ERP success depends on data migration, process design, user training, and reporting alignment.
 
-![Sage X3 ERP workflow from finance and inventory through manufacturing and distribution analytics](https://assets.devx.sage.com/assets/x3/x3Heroimage.png)
+![Sage X3 ERP workflow from finance and inventory through manufacturing and distribution analytics](https://theretailexec.com/cdn-cgi/imagedelivery/28aRxvl17eo_R2-ia0Zg1Q/product-reviews/1612/sage-x3-dashboard-screenshot.png/public)
 
 ## Operational Fit Matrix
 
